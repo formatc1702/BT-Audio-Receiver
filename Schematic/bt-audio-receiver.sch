@@ -20308,10 +20308,10 @@ Source: http://www.bourns.com/data/global/PDFs/3223.PDF</description>
 <wire x1="172.212" y1="89.408" x2="256.54" y2="89.408" width="0.1524" layer="94"/>
 <wire x1="130.048" y1="3.81" x2="130.048" y2="89.408" width="0.1524" layer="94"/>
 <wire x1="172.212" y1="24.13" x2="172.212" y2="89.408" width="0.1524" layer="94"/>
-<text x="7.62" y="170.18" size="1.778" layer="94">DC/DC power supply</text>
-<text x="7.62" y="83.82" size="1.778" layer="94">Pulse generator for Bluetooth module power button</text>
-<text x="134.62" y="83.82" size="1.778" layer="94">Manual power button</text>
-<text x="177.8" y="83.82" size="1.778" layer="94">Connector for Bluetooth module</text>
+<text x="7.62" y="170.18" size="2.54" layer="94">DC/DC power supply</text>
+<text x="7.62" y="83.82" size="2.54" layer="94">Pulse generator for Bluetooth module power button</text>
+<text x="132.08" y="83.82" size="2.54" layer="94">Manual power button</text>
+<text x="175.26" y="83.82" size="2.54" layer="94">Connector for Bluetooth module</text>
 <text x="7.62" y="157.48" size="1.778" layer="97">Input: 5VDC
 from Stereo</text>
 <text x="91.44" y="106.68" size="1.778" layer="97">R1 to generate
